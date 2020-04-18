@@ -22,7 +22,7 @@ const Curso = () => (
         </div>
       </div>
       <div className="s-main-center">
-        <a className="button--ghost-alert button--tiny" href="https://ed.team">$ 35USD</a>
+        <a className="button--ghost-alert button--tiny" href="https://ed.team">$ 35 USD</a>
       </div>
     </div>
   </article>
